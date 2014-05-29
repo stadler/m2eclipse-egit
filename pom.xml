@@ -35,6 +35,7 @@
     <module>org.sonatype.m2e.egit</module>
     <module>org.sonatype.m2e.egit.tests</module>
     <module>org.sonatype.m2e.egit.feature</module>
+    <module>com.netcetera.m2e.egit.patch</module>
   </modules>
   
 </project>
